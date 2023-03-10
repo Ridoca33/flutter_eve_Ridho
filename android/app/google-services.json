@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971406493432",
+    "project_id": "simple-socmed-login-6a83d",
+    "storage_bucket": "simple-socmed-login-6a83d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971406493432:android:6d2b9706bd1eac0cb61d0d",
+        "android_client_info": {
+          "package_name": "com.example.auth_socmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971406493432-o8rpv20jiol7r1p4mqb2ehsdb84ssoda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_socmed",
+            "certificate_hash": "9851050e2a69590dd1f15311620e9e4dae613faf"
+          }
+        },
+        {
+          "client_id": "971406493432-rcph4iumg1hucqn7mf2aa4lkeri361td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjewYpaySqwM-kMvATIOQGTytEhU5YMug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971406493432-rcph4iumg1hucqn7mf2aa4lkeri361td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
